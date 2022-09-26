@@ -3,7 +3,7 @@ package com.project1;
 import java.util.Scanner;
 
 public class ArrayOdd {
-//incomplete code
+
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
